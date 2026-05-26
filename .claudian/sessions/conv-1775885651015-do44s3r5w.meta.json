@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775885651015-do44s3r5w",
+  "title": "Draw critical knowledge structure diagram",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775885651015,
+  "updatedAt": 1775887029969,
+  "lastResponseAt": 1775886502215,
+  "sessionId": null,
+  "sdkSessionId": "d198b402-4971-4e54-890a-a33af12dbb4d",
+  "currentNote": "StudyVault/好好学习/01-基础理论（概念）/临界知识.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

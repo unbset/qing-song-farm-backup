@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775894820653-737nbnzzu",
+  "title": "Convert PDF to Obsidian vault",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775894820654,
+  "updatedAt": 1775911169049,
+  "lastResponseAt": 1775899928055,
+  "sessionId": null,
+  "sdkSessionId": "14d8ca79-017a-4089-b7f2-03f64696438f",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769569350522-f93e53lao",
+  "title": "Create knowledge visualization in Obsidian",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769569350522,
+  "updatedAt": 1775812463187,
+  "lastResponseAt": 1769569940630,
+  "sessionId": null,
+  "sdkSessionId": "4555d897-14d3-4063-b28d-bffb4721ee2a",
+  "currentNote": "人生指导/价值论和三断.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778550203627-dpo22ge3m",
+  "providerId": "claude",
+  "title": "Ask about Tang Wenzong's military campaigns",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778550203627,
+  "updatedAt": 1778846180617,
+  "lastResponseAt": 1778556491732,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "6012f7e0-2708-4afc-b71b-6df132cbc05b"
+  },
+  "usage": {
+    "model": "MiniMax-M2.7",
+    "inputTokens": 33894,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 55872,
+    "contextWindow": 200000,
+    "contextTokens": 89766,
+    "percentage": 45,
+    "contextWindowIsAuthoritative": true
+  }
+}

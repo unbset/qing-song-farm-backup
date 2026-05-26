@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769568522161-vsfndlor4",
+  "title": "Summarize value theory notes in canvas",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769568522161,
+  "updatedAt": 1775812464975,
+  "lastResponseAt": 1769569178150,
+  "sessionId": null,
+  "sdkSessionId": "00127b5e-7b49-4ce1-aaeb-b0b71c8b6c15",
+  "currentNote": "人生指导/价值论和三断.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

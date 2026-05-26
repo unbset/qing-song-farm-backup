@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e75debff5a0888c7","x":-120,"y":-180,"width":250,"height":210,"type":"text","text":"- 它是什么\n- 为什么会产生\n- 什么场景会触发\n- 什么空间会破坏它\n- 什么行为会增强它\n- 什么产品能承载它\n- 什么人最需要它"},
+		{"id":"20077cc56dae22de","x":-65,"y":-300,"width":140,"height":60,"type":"text","text":"恢复感"}
+	],
+	"edges":[
+		{"id":"4c41191b4d9034c9","fromNode":"20077cc56dae22de","fromSide":"bottom","toNode":"e75debff5a0888c7","toSide":"top"}
+	]
+}

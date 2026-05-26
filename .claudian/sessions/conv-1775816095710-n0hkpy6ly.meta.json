@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775816095710-n0hkpy6ly",
+  "title": "Create Excalidraw life philosophy diagrams",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775816095711,
+  "updatedAt": 1775816245027,
+  "lastResponseAt": 1775816245027,
+  "sessionId": null,
+  "sdkSessionId": "d71e0980-e864-4d72-b70c-53002484ecfe",
+  "currentNote": "树洞开发/愈内耗的终极公式：世界是中性的，人生是主观的.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775270748076-jv1kd3c02",
+  "title": "Introduce Claude agent",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775270748076,
+  "updatedAt": 1775812471949,
+  "lastResponseAt": 1775736519562,
+  "sessionId": null,
+  "sdkSessionId": "4ed29e53-b180-4dd0-8f25-0bb5e280341b",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

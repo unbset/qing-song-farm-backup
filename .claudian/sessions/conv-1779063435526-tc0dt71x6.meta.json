@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779063435526-tc0dt71x6",
+  "providerId": "claude",
+  "title": "分析文件追踪辰柒行踪并生成图片",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779063435528,
+  "updatedAt": 1779087148787,
+  "lastResponseAt": 1779066888163,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "a01a5831-5a1c-48b5-baaf-5d4b7d707053"
+  },
+  "currentNote": "辰七故事创作/outline.md",
+  "usage": {
+    "model": "MiniMax-M2.7",
+    "inputTokens": 57526,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 57526,
+    "percentage": 29,
+    "contextWindowIsAuthoritative": true
+  }
+}

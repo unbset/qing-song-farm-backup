@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775829238016-6bmay1zam",
+  "title": "Create minimalist infographic with life equation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775829238016,
+  "updatedAt": 1775876315511,
+  "lastResponseAt": 1775870498772,
+  "sessionId": null,
+  "sdkSessionId": "31487ae5-b7e4-45ab-afe6-19fe4fcd3be7",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

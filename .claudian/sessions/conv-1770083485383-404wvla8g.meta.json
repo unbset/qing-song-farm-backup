@@ -1,0 +1,19 @@
+{
+  "id": "conv-1770083485383-404wvla8g",
+  "title": "Create Obsidian Canvas from article knowledge",
+  "titleGenerationStatus": "success",
+  "createdAt": 1770083485383,
+  "updatedAt": 1775812469008,
+  "lastResponseAt": 1770083689046,
+  "sessionId": null,
+  "sdkSessionId": "4f530ae0-3ed4-48d9-844c-178502b6679f",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

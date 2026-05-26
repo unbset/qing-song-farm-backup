@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775828906408-mnd4lwjly",
+  "title": "Create diagram from note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775828906408,
+  "updatedAt": 1775829211588,
+  "lastResponseAt": 1775828953353,
+  "sessionId": null,
+  "sdkSessionId": "15c0dc5d-6fa0-4b65-812d-14155c6e9b66",
+  "currentNote": "excalidraw/Drawing 2026-04-10 21.01.01.excalidraw.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

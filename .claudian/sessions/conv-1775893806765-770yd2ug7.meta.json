@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775893806765-770yd2ug7",
+  "title": "Convert PDF to Obsidian vault",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775893806765,
+  "updatedAt": 1775911715542,
+  "lastResponseAt": 1775894592426,
+  "sessionId": null,
+  "sdkSessionId": "dd8c03ab-e137-4c2a-bae4-34bea2348955",
+  "currentNote": "StudyVault/圆瑛法师 - 大佛顶首楞严经讲义.pdf",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

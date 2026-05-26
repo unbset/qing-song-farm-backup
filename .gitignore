@@ -1,0 +1,23 @@
+# Obsidian runtime (auto-generated)
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/graph.json
+.obsidian/cache/
+.obsidian/plugins/obsidian-git/data.json
+
+# Claude / AI tool config (not farm content)
+.claude/
+.claudian/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.swp
+*.bak
+~$*
+
+# Git
+.gitconfig

@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775887624791-ufs1eif2i",
+  "title": "使用excalidraw-diagram技能，绘制该文档的结构图，手绘分格，保存在我的知识库根目录下",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775887624791,
+  "updatedAt": 1775888272861,
+  "lastResponseAt": 1775888272861,
+  "sessionId": null,
+  "sdkSessionId": "329a00f0-93a2-4b0b-9cc2-832d1acf30f5",
+  "currentNote": "StudyVault/好好学习/03-实践应用/用临界知识构建能力圈.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

@@ -1,5 +1,0 @@
-{
-  "allowShellExecution": false,
-  "disableBacktickExecution": true,
-  "defaultAllowedTools": ["Read", "Write", "List"]
-}

@@ -1,0 +1,16 @@
+{
+  "tabManagerState": {
+    "openTabs": [
+      {
+        "draftModel": "deepseek-v4-flash",
+        "tabId": "tab-1779412064250-4uuoc3g",
+        "conversationId": null
+      },
+      {
+        "tabId": "tab-1779933267631-rxjtn7x",
+        "conversationId": "conv-1779933272788-1mwt79e3k"
+      }
+    ],
+    "activeTabId": "tab-1779933267631-rxjtn7x"
+  }
+}

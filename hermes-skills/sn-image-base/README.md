@@ -2,7 +2,7 @@
 
 The skill for the [SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) project, providing low-level APIs for image generation, recognition (VLM), and text optimization (LLM).
 
-See [SKILL.md](SKILL.md) for full behavior.
+See [SKILL.md](hermes-skills/sn-image-base/SKILL.md) for full behavior.
 
 This document describes detailed configurations for the skill.
 

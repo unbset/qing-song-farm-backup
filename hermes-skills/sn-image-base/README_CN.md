@@ -2,7 +2,7 @@
 
 该技能属于 [SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) 项目，提供图像生成、图像识别（VLM）和文本优化（LLM）的底层 API 能力。
 
-完整行为请见 [SKILL.md](SKILL.md)。
+完整行为请见 [SKILL.md](hermes-skills/sn-image-base/SKILL.md)。
 
 本文档主要介绍该技能的详细配置。
 
